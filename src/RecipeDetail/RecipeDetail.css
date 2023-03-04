@@ -1,0 +1,14 @@
+table,tr,th,td{
+    border:1px solid black;
+    border-collapse: collapse;
+    padding:5px;
+    width: 100%;
+}
+
+.detail__img{
+    width: 100%;
+}
+
+.detail__erase-btn{
+    width: 100%;
+}

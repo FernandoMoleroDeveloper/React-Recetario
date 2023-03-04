@@ -1,0 +1,15 @@
+.recipe{
+    width: 400px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+}
+.recipe__img{
+    width: 100px;
+    margin-right: 10px;
+}
+.recipe__title{
+    font-size: 16px;
+}

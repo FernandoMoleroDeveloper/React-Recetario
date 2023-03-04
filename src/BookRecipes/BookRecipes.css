@@ -1,0 +1,17 @@
+.container{
+    display:flex;
+    justify-content: space-around;
+}
+.container__newrecipe{
+overflow: hidden;
+width: 30vw;
+}
+
+.container__recipes{
+overflow: hidden;
+width: 30vw;
+}
+.container__recipes-detail{
+overflow: hidden;
+width: 30vw;
+}

@@ -1,0 +1,129 @@
+{
+  "recipes": [
+    {
+      "name": "Paella",
+      "numPeople": 4,
+      "imageUrl": "https://www.shutterstock.com/image-photo/classic-dish-spain-seafood-paella-600w-1879727512.jpg",
+      "id": 1,
+      "ingredients": [
+        {
+          "name": "Pimiento verde",
+          "quantity": "2 uds"
+        },
+        {
+          "name": "Pimiento rojo",
+          "quantity": "2 uds"
+        },
+        {
+          "name": "Langostino crudo",
+          "quantity": "8 uds"
+        },
+        {
+          "name": "Caldo pescado para paella",
+          "quantity": "1 litro"
+        },
+        {
+          "name": "Arroz",
+          "quantity": "400 grs"
+        }
+      ]
+    },
+    {
+      "name": "Pancake",
+      "numPeople": "4",
+      "imageUrl": "https://www.shutterstock.com/image-photo/sweet-homemade-stack-pancakes-butter-600w-791630443.jpg",
+      "ingredients": [],
+      "id": 3
+    },
+    {
+      "name": "Tarta chocolate y galletas",
+      "numPeople": 6,
+      "imageUrl": "https://www.shutterstock.com/image-photo/homemade-chocolate-rolls-dessert-600w-368330465.jpg",
+      "id": 2,
+      "ingredients": [
+        {
+          "name": "Leche",
+          "quantity": "500 ml"
+        },
+        {
+          "name": "Chocolate para postres",
+          "quantity": "450 grs"
+        },
+        {
+          "name": "Paquetes de galletas",
+          "quantity": "2 uds"
+        },
+        {
+          "name": "Mantequilla",
+          "quantity": "50 grs"
+        }
+      ]
+    },
+    {
+      "name": "Brownie",
+      "numPeople": "8",
+      "imageUrl": "https://www.shutterstock.com/image-photo/pieces-fresh-chocolate-brownie-on-600w-1893866746.jpg",
+      "ingredients": [
+        {
+          "name": "Mantequilla",
+          "quantity": "200 grs"
+        },
+        {
+          "name": "Chocolate",
+          "quantity": "400 grs"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Pollo Asado",
+      "numPeople": "4",
+      "imageUrl": "https://www.shutterstock.com/image-photo/homemade-chicken-rotisserie-thyme-lemon-600w-1574170006.jpg",
+      "ingredients": [
+        {
+          "name": "Pollo entero crudo",
+          "quantity": "1"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Canelones",
+      "numPeople": "3",
+      "imageUrl": "https://media.istockphoto.com/id/1070943398/es/foto/canelones-con-salsa-de-carne.jpg?s=612x612&w=is&k=20&c=6Jn4aw_THKVFP2fHFBkwW78BTeUNKZp0FvdpWzq5XMs=",
+      "id": 6,
+      "ingredients": [
+        {
+          "name": "carne",
+          "quantity": "100gr"
+        }
+      ]
+    },
+    {
+      "name": "Tortilla",
+      "numPeople": "2",
+      "imageUrl": "https://media.istockphoto.com/id/1048121658/es/foto/huevos-revueltos-o-tortilla-de-huevos-y-queso-con-hierbas.jpg?s=612x612&w=is&k=20&c=4HN6kpbYFG2-2ew_ngLDz-Js7IPOJFyvMFcwVBfrnDw=",
+      "id": 7,
+      "ingredients": []
+    },
+    {
+      "name": "Ensalada",
+      "numPeople": "5",
+      "imageUrl": "https://media.istockphoto.com/id/598567824/es/foto/ensalada-casera-de-espinacas-de-nogal-de-manzana-de-oto%C3%B1o.jpg?s=612x612&w=is&k=20&c=fW6Y-RAP_IyJGakC0xA3OtWT4uyO0AVPC_sjow6Sj88=",
+      "id": 8,
+      "ingredients": []
+    },
+    {
+      "name": "Gazpacho",
+      "numPeople": "4",
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/05/05/19/06/tomato-soup-2288056_1280.jpg",
+      "id": 9,
+      "ingredients": [
+        {
+          "name": "tomates",
+          "quantity": "6"
+        }
+      ]
+    }
+  ]
+}
